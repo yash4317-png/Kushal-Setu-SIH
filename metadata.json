@@ -1,0 +1,6 @@
+{
+  "name": "Kaushal Setu",
+  "description": "Competency Diagnostic & Adaptive Learning Gateway for MoSPI and Indian Official Statistics Cadres, aligned with Mission Karmayogi and FRAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
